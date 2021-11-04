@@ -1,0 +1,19 @@
+Project Proposal
+Overview / Introduction:
+The project is a Credit Card Fraud Detection Program.
+Question / Need:
+What is the functional background of the problem?
+Which transaction is legit, and which is a fraud?
+Data Description:
+Csv dataset with 31 columns with more than 160,000 rows.
+Tools:
+The libraries that you’re going to use in this project ex: numpy, pandas, sklearn. And specifying each of the libraries and their uses in the project ex: numpy for EDA
+-	Numby for EDA
+-	Pandas for Data Cleaning
+-	Sklearn for classification
+-	Matplotlib for Visualization
+MVP Goal:
+What is the minimum goal you will achieve and could demonstrate a simple graph
+The percentage of fraud transactions compared to legit.
+Ex:https://github.com/thisismetis/Metis_Fundamentals/blob/main/project_deliverable_templates/project_deliverable_examples/regression/regression_mvp_ex.md
+
